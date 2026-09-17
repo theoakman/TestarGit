@@ -12,6 +12,8 @@
             Console.WriteLine("Password");
             string password = "asafepassword!";
 
+            Console.WriteLine("Inloggad");
+
         }
     }
 }
