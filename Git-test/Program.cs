@@ -6,6 +6,12 @@
         {
             System.Console.WriteLine("Hello World!");
 
+            Console.WriteLine("Username");
+            string name = "TheOakMan";
+
+            Console.WriteLine("Password");
+            string password = "asafepassword!";
+
         }
     }
 }
